@@ -34,7 +34,8 @@ public class EBAC5{
                frase();
 
 
-            } else if (escolha ==3) {System.out.println("Então ta né felas");
+            } else if (escolha ==3) {
+                System.out.println("Então ta né felas");
                 tchal();
                 break;
 
